@@ -1,1 +1,1 @@
-# Analyze-data-in-a-salaries-for-professors-database-using-Python
+# Data analysis project on a salaries for professors database
